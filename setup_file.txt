@@ -1,0 +1,30 @@
+R version = R 4.1.1
+
+R-tools set up needed
+
+Libraries needed :
+
+outliers
+corrplot
+MASS
+formattable
+stats
+xgboost
+PerformanceAnalytics
+pacman
+ggplot2
+lattice
+caret
+dummies
+dplyr
+Lahman
+ggcorrplot
+ROSE
+pROC
+ROCR
+Keras
+rpart
+tidyverse
+plotly
+
+For the "Analysis.R" file, highlight the code and press command+Enter or Control+Enter to view the graphs
